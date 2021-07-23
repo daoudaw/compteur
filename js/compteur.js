@@ -10,7 +10,7 @@ const pExit = document.getElementById('p-exit');
 const pResult = document.getElementById('p-result');
 const pLog = document.getElementById('p-log');
 
-
+   
 
 // decalring 2 global variables for the counters
 let counterEntry = 0 ;
